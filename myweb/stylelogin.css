@@ -1,0 +1,64 @@
+h1{
+    padding-left: 33%;
+}
+form{
+    margin-left: 30%;
+   
+    
+}
+input.text{
+width: 300px;
+height: 30px;
+border:1px solid rgb(161, 161, 161);   
+border-radius: 5px;         
+}
+div.password{
+    margin-top: 15px; 
+    margin-bottom: 20px;  
+
+}
+input.submit{
+    position: relative;
+    left: 7%;
+    width: 250px;
+    height: 40px;
+    color: white;
+    border: 0px;
+    background-color: rgb(72, 25, 116);
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    transition-property: height,font-size,width,left;
+    transition-duration: 1s;
+}
+div.display{
+    position: relative;
+    top:20%;
+    left: 35%;
+    background-color: rgb(113, 233, 233);
+    width: 500px;
+    padding-right: 100px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 5px;
+    box-shadow: 5px 5px;
+    
+
+}
+input.submit:hover{
+    left: 0;
+    width: 300px;
+    height: 60px;
+    font-size: 17px;
+
+}
+a{
+    font-size: 15px;
+    transition-property: font-size,color;
+    transition-duration: 0.5s;
+}
+a:hover{
+   font-size: 17px;
+   color: blue;
+
+}

@@ -1,0 +1,43 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(3, 3, 71);
+    font-size: 50px;
+}
+table, tr, th, td {
+    border: 2px solid rgb(0, 0, 0);
+}
+table{
+   padding: 10px;
+    position: relative;
+    left: 25%;
+    box-shadow: 0px 0px 15px 0 rgb(0, 0, 0);
+}
+body{
+    text-align: center;
+}
+.name{
+    color: white;
+    background-color: rgb(119, 119, 228);
+
+}
+.snack{
+    width: 300px;
+    height: 250px;
+}
+.img{
+    color: black;
+    background-color: antiquewhite;
+
+}
+.other{
+    color: black;
+    background-color: rgb(134, 255, 140);
+}
+input{
+    position: relative;
+    left:-700px;
+    top: 500px;
+    width: 100px;
+    height:70px;
+    
+}

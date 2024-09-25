@@ -1,0 +1,15 @@
+body,html{ height: 100%;
+    margin: 0;
+
+
+}
+div.container{
+    background-image:url(imgs/forest-5375005_1920.jpg);
+    background-repeat: no-repeat;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
